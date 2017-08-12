@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mara Buzatu)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment taught me to use JavaScript to create a tax calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A JavaScript function is a block of code designed to execute a specific task.
+2. JavaScript arrays are used to store multiple values in a single variable.
+3. "If" statements are used to execute a block of JavaScript code if a condition is true, "else" is used if condition is false, and "else if" is used if first condition is false.
 
